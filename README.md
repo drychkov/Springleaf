@@ -1,4 +1,5 @@
 # The code example from the Springleaf competition project
+https://www.kaggle.com/c/springleaf-marketing-response
 
 The purpose of the project is to predict which customers will respond to a direct mail offer about a loan.
 
